@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @farid-hamid
-- 👀 I’m interested in ... Data science and analytics
-- 🌱 I’m currently learning ... Python, R, Data mining, analytics, visualisation and modelling, Data Science student.
-- 💞️ I’m looking to collaborate on ... data projects particularly based around Diabetes data and forecasting
+Passionate about designing and implementing data driven solutions, experienced in generating insights delivering statistical modellingframeworks to clients in the charity sector and others. 
+Keen interest indesigning and implementing machine learning approaches to real-worldproblems and the exploration of diverse data landscapes.
+
+Python, SQL, R
 - 📫 How to reach me ... fhamid95@outlook.com
 
 <!---
